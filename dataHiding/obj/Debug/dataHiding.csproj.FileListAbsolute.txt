@@ -1,0 +1,7 @@
+D:\Practices\dataHiding\bin\Debug\dataHiding.exe.config
+D:\Practices\dataHiding\bin\Debug\dataHiding.exe
+D:\Practices\dataHiding\bin\Debug\dataHiding.pdb
+D:\Practices\dataHiding\obj\Debug\dataHiding.csprojAssemblyReference.cache
+D:\Practices\dataHiding\obj\Debug\dataHiding.csproj.CoreCompileInputs.cache
+D:\Practices\dataHiding\obj\Debug\dataHiding.exe
+D:\Practices\dataHiding\obj\Debug\dataHiding.pdb
